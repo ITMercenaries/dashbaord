@@ -1,2 +1,2 @@
-# dodashbaord
-A simple DevOps dashboard implementation
+# A Generic Dashbaord Template
+A simple DevOps Dashboard implementation template
